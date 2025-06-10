@@ -1,1 +1,1 @@
-# Lab 10 - Starter
+link to canny: https://cse110-lab10-thanh2x.canny.io/
